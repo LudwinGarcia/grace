@@ -1,0 +1,433 @@
+/* Desktop
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 1150px) {
+  .center {
+    width: 800px;
+  }
+  header.main .logo {
+    width: 200px;
+    background-size: 80%;
+    background-position: left center;
+  }
+  header.main nav > ul > li > a {
+    font-size: 14px;
+    padding: 0 14px;
+  }
+  #slider {
+    width: 800px;
+  }
+  section.info .col-4 .icon {
+    float: none;
+    margin: 0 auto 10px;
+  }
+  section.info .col-4 h3 {
+    text-align: center;
+  }
+  section.info .col-4 p {
+    text-align: center;
+  }
+  section.donate #line {
+    width: 800px;
+  }
+  section.donate .col-6.but a {
+    width: 350px;
+    font-size: 20px;
+  }
+  section.news .news .info .tag {
+    margin-top: 10px;
+  }
+  section.news .news .more {
+    width: 100%;
+  }
+  section.bottom .text {
+    top: 40%;
+  }
+  section.bottom .text h3 {
+    font-size: 13px;
+  }
+  section.you-help .col-4 form #submit {
+    width: 100%;
+  }
+  section.cause .causes h3 {
+    font-size: 12px;
+  }
+  section.donate-text .col-4 form #submit {
+    width: 100%;
+  }
+  section.blog article.big .info.events .calendar,
+  section.blog article.big .info.events .location {
+    height: 18px;
+    line-height: 18px;
+    font-size: 10px;
+    margin-bottom: 10px;
+  }
+  aside.blog .recent-events > h3,
+  aside.blog #photostream > h3,
+  aside.blog .video > h3 {
+    font-size: 25px;
+  }
+  aside.blog .recent-events .item .col-9 .title,
+  aside.blog #aside-dynamic .content .col-9 .title {
+    font-size: 14px;
+  }
+  aside.blog #aside-dynamic .content .col-9 .info .date,
+  aside.blog #aside-dynamic .content .col-9 .info .comments {
+    height: 18px;
+    line-height: 18px;
+    font-size: 10px;
+  }
+  aside.blog .recent-events .item .col-9 .info .calendar {
+    font-size: 10px;
+    background: none;
+    padding-left: 0;
+  }
+  aside.blog {
+    padding-left: 0;
+  }
+  aside.blog #aside-dynamic .menu > div {
+    display: block;
+    width: 100%!important;
+    float: none;
+    border: 0!important;
+  }
+  section.blog article.big .info,
+  section.blog article.big .date {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  section.blog .img,
+  section.blog .frame,
+  section.blog .img-big {
+    width: 100%;
+    height: auto;
+  }
+  section.blog article.small .info {
+    font-size: 10px;
+  }
+  section.blog article.small .info div {
+    margin-bottom: 5px;
+  }
+  section.blog article.big .info div {
+    margin-right: 10px;
+    padding-right: 10px;
+  }
+  section.blog article.small iframe {
+    height: 122px;
+  }
+  .gallery .menu > a {
+    font-size: 12px;
+  }
+  aside.blog .video {
+    margin-bottom: 20px;
+  }
+}
+/* Tablets
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 850px) {
+  .center {
+    width: 500px;
+  }
+  header.main #mobile-button {
+    display: block;
+  }
+  #slider {
+    width: 500px;
+  }
+  #slider .slides li .text1 {
+    height: 40px;
+    font-size: 30px;
+    line-height: 30px;
+  }
+  #slider .slides li .text2 {
+    font-size: 18px;
+    line-height: 25px;
+    height: 25px;
+  }
+  header.main nav,
+  header.top .right .email,
+  header.top .right .donate {
+    display: none;
+  }
+  section.info .col-4:nth-child(3n+1) {
+    padding-right: 30px;
+  }
+  section.info .col-4:nth-child(3n+2) {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  section.info .col-4:nth-child(3n+3) {
+    padding-left: 30px;
+  }
+  section.info .col-4 h3 {
+    font-size: 14px;
+  }
+  #slider .flex-direction-nav .flex-next {
+    right: -48px;
+  }
+  #slider .flex-direction-nav .flex-prev {
+    left: -48px;
+  }
+  section.donate {
+    height: auto;
+    padding: 40px 0;
+    background-image: none;
+  }
+  section.donate.page {
+    background-image: none;
+  }
+  section.donate .col-6.text {
+    width: 100%;
+    text-align: center;
+    margin: 0 0 20px 0;
+    padding: 0;
+  }
+  section.donate #line {
+    width: 500px;
+  }
+  section.donate .col-6.but {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  .col-2i {
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  section.how-help h2,
+  section.latest-donations h2 {
+    font-size: 30px;
+  }
+  section.how-help .col-6.left,
+  section.how-help .col-6.right {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  section.news .about,
+  section.news .news,
+  section.news .photos {
+    padding: 0;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  section.news .photos h3 {
+    padding-left: 0;
+  }
+  section.news .news .more {
+    margin-top: 0;
+  }
+  section.news .news .info .tag {
+    margin-top: 0;
+  }
+  section.news #photo-slider .col-6:nth-child(2n+1),
+  section.news #photo-slider .col-6:nth-child(2n+2),
+  section.news #photo-slider {
+    padding: 0;
+  }
+  section.news #photo-slider .col-6:nth-child(2n+1) .flex-control-nav,
+  section.news #photo-slider .col-6:nth-child(2n+2) .flex-control-nav,
+  section.news #photo-slider .flex-control-nav {
+    display: none;
+  }
+  section.news #photo-slider .col-6 {
+    width: 33.333333333333%;
+    padding: 0 5px !important;
+  }
+  section.news .photos h3 .control {
+    right: 0;
+  }
+  section.bottom .col-4 {
+    width: 100%;
+    padding: 0!important;
+    margin-bottom: 15px;
+  }
+  footer .line .links {
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  footer .line .links a {
+    margin-right: 15px;
+  }
+  footer .line {
+    text-align: center;
+  }
+  footer .line .copy {
+    margin-top: 10px;
+    float: none;
+  }
+  footer .footer .col-4 {
+    width: 100%;
+    padding: 0!important;
+    margin-bottom: 40px;
+  }
+  footer .footer .col-4:last-child {
+    margin-bottom: 0;
+  }
+  section.top-page-nav .navi {
+    display: none;
+  }
+  section.contacts .col-7,
+  section.contacts .col-5 {
+    width: 100%;
+    padding: 0!important;
+    margin-bottom: 20px;
+  }
+  section.management .peoples .col-3 {
+    width: 50%;
+    padding: 0 20px!important;
+    margin-bottom: 20px;
+  }
+  section.org-details .col-4 {
+    width: 100%;
+    padding: 0 !important;
+    margin-bottom: 20px;
+  }
+  section.org-details .col-4:last-child {
+    margin-bottom: 0;
+  }
+  section.you-help .col-8 {
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 20px;
+  }
+  section.you-help .col-4 {
+    width: 100%;
+    padding-left: 0;
+  }
+  section.cause .causes > .col-4 {
+    width: 100%;
+    padding: 0 !important;
+    margin-bottom: 30px;
+  }
+  section.donate-text .col-8 {
+    width: 100%;
+    padding-right: 0;
+  }
+  section.donate-text .col-4 {
+    width: 100%;
+    padding-left: 0;
+  }
+  aside.blog {
+    display: none;
+  }
+  section.blog {
+    width: 100%;
+    padding: 0;
+  }
+  section.blog article.small .title {
+    font-size: 14px;
+  }
+  section.blog article.small .info div {
+    margin-right: 5px;
+    padding-right: 5px;
+    border-right: 0 !important;
+  }
+  section.top-page-nav h2 {
+    font-size: 35px;
+  }
+}
+/* Mobile
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 550px) {
+  .center {
+    width: 260px;
+  }
+  #slider {
+    width: 260px;
+  }
+  #slider .slides li .text1,
+  #slider .slides li .text2 {
+    display: none;
+  }
+  header.top .tel {
+    font-size: 14px;
+  }
+  header.top .right .name {
+    display: none;
+  }
+  header.top .right .search {
+    border-right: 0;
+  }
+  header.top .right .search input[type='search'] {
+    width: 128px;
+  }
+  section.info .col-4 {
+    width: 100%;
+    padding: 0!important;
+    margin-bottom: 15px;
+  }
+  #slider .flex-direction-nav .flex-next {
+    right: 3px;
+  }
+  #slider .flex-direction-nav .flex-prev {
+    left: 3px;
+  }
+  section.donate #line {
+    width: 260px;
+  }
+  section.donate .col-6.but a {
+    font-size: 14px;
+    width: 240px;
+  }
+  section.donate .col-6.text h4 {
+    font-size: 16px;
+  }
+  .col-2i {
+    width: 100%;
+  }
+  section.how-help h2 {
+    font-size: 20px;
+  }
+  section.how-help .c1,
+  section.how-help .c2,
+  section.how-help .c3,
+  section.how-help .c4 {
+    width: 100%;
+  }
+  section.how-help .col-6.line {
+    display: none;
+  }
+  section.how-help .more {
+    width: 100%;
+  }
+  section.news #photo-slider .col-6 {
+    width: 50%;
+  }
+  section.contacts .col-5 form #submit {
+    width: 100%;
+  }
+  section.contacts .col-7 > a {
+    font-size: 13px;
+  }
+  section.management .peoples .col-3 {
+    width: 100%;
+    padding: 0!important;
+  }
+  section.management h2 {
+    font-size: 30px;
+  }
+  section.blog article.small {
+    width: 100%;
+    padding: 0 !important;
+  }
+  section.blog article.big .date {
+    display: none;
+  }
+  section.blog article.big .title {
+    font-size: 14px;
+  }
+  .gallery .photos .col-6 {
+    width: 100%;
+    padding: 0!important;
+  }
+  .gallery .menu > a {
+    width: 100%;
+    border-right: 0;
+    border-bottom: 1px solid #a8ca8a;
+  }
+  section.top-page-nav h2 {
+    font-size: 30px;
+  }
+}
