@@ -993,8 +993,8 @@ header.main #mobile-menu ul ul li a {
   margin-left: -170px;
 }
 #slider .slides li .text2 {
-  width: 220px;
-  height: 42px;
+  width: 600px;
+  height: 85px;
   line-height: 40px;
   position: absolute;
   bottom: 41px;
@@ -1002,9 +1002,9 @@ header.main #mobile-menu ul ul li a {
   font-weight: 300;
   font-size: 23px;
   color: #fff;
-  background: rgba(0, 0, 0, 0.73);
+  background: rgba(14, 55, 89, 0.73);
   text-align: center;
-  left: 50%;
+  left: 10.2%;
   margin-left: -110px;
 }
 #slider .slides li.flex-active-slide {
@@ -1549,7 +1549,7 @@ section.latest-donations .peoples .donated .right:before {
 section.how-help {
   padding: 60px 0;
   position: relative;
-  background: url("../css/images/childrens.jpg") no-repeat center right, #76a84b url("../css/images/donacion.jpg") no-repeat left bottom;
+  background-color: #1378bd;
 }
 section.how-help .top-border {
   position: absolute;
@@ -1558,7 +1558,7 @@ section.how-help .top-border {
   margin-left: -83px;
   width: 165px;
   height: 7px;
-  background: #ffd800;
+  background: #3EBFE5;
 }
 section.how-help h2 {
   font-family: 'Open Sans', 'sans-serif';
@@ -1643,7 +1643,7 @@ section.how-help .more {
   display: inline-block;
   width: 208px;
   height: 50px;
-  background: #f65339;
+  background: #3EBFE5;
   -webkit-border-top-right-radius: 3px;
   -webkit-border-bottom-right-radius: 3px;
   -webkit-border-bottom-left-radius: 3px;
@@ -1659,9 +1659,9 @@ section.how-help .more {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  -webkit-box-shadow: 0 3px 0 0 #d8422a;
-  -moz-box-shadow: 0 3px 0 0 #d8422a;
-  box-shadow: 0 3px 0 0 #d8422a;
+  -webkit-box-shadow: 0 3px 0 0 #3EBFE5;
+  -moz-box-shadow: 0 3px 0 0 #3EBFE5;
+  box-shadow: 0 3px 0 0 #3EBFE5;
   text-align: center;
   line-height: 50px;
   font-family: 'Open Sans', 'sans-serif';
@@ -1676,9 +1676,9 @@ section.how-help .more {
   transition: all 0.3s ease;
 }
 section.how-help .more:hover {
-  -webkit-box-shadow: 0 0px 0 0 #d8422a;
-  -moz-box-shadow: 0 0px 0 0 #d8422a;
-  box-shadow: 0 0px 0 0 #d8422a;
+  -webkit-box-shadow: 0 0px 0 0 #3EBFE5;
+  -moz-box-shadow: 0 0px 0 0 #3EBFE5;
+  box-shadow: 0 0px 0 0 #3EBFE5;
 }
 /* News
 /* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
