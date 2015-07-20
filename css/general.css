@@ -4268,3 +4268,8 @@ section.donate-text .col-4 form #submit:hover {
     font-size: 30px;
   }
 }
+
+.image_slide {
+  width: 1078px;
+  height: 551px;
+}
