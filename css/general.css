@@ -1138,13 +1138,14 @@ section.info .col-4 .icon {
   margin-right: 20px;
 }
 section.info .col-4 .icon.i1 {
-  background: url("images/i1.png") no-repeat center;
+  background: url("images/Main-Problem.png") no-repeat center;
+  
 }
 section.info .col-4 .icon.i2 {
-  background: url("images/i2.png") no-repeat center;
+  background: url("images/Our-Mission.png") no-repeat center;
 }
 section.info .col-4 .icon.i3 {
-  background: url("images/i3.png") no-repeat center;
+  background: url("images/donation-program.png") no-repeat center;
 }
 section.info .col-4 h3 {
   font-family: 'PT Sans', 'sans-serif';
