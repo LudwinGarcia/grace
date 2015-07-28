@@ -1139,7 +1139,7 @@ section.info .col-4 .icon {
 }
 section.info .col-4 .icon.i1 {
   background: url("images/Main-Problem.png") no-repeat center;
-  
+
 }
 section.info .col-4 .icon.i2 {
   background: url("images/Our-Mission.png") no-repeat center;
@@ -4277,4 +4277,8 @@ section.donate-text .col-4 form #submit:hover {
 
 .contact_footer {
   padding-left: 337px;
+}
+
+.text_info {
+  text-align: justify;
 }
